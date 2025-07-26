@@ -17,20 +17,6 @@ A modern, single-page application (SPA) that visualizes digital resource usage t
 ### Folder Structure:
 Here’s your fully structured and polished README.md—ready to copy straight into your repo. It lays out everything from high-level architecture down to chart component behaviors. Let’s make your project as clear and compelling as it is sophisticated. 🚀
 
----
-
-🧩 Architecture Overview
-
-Tech Stack:
-- Framework: React + Vite
-- Styling: TailwindCSS
-- Data Viz: Chart.js via React wrapper components
-- State Management: React Context API
-- Routing: React Router (SPA behavior)
-- Deployment: Vercel with GitHub Actions CI/CD
-
-Folder Structure:
-`
 📦src
  ┣ 📂assets             # Logo, fonts, styles
  ┣ 📂components         # Reusable UI sections
