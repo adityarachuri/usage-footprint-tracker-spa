@@ -19,14 +19,6 @@ Here’s your fully structured and polished README.md—ready to copy straight i
 
 ---
 
-`md
-
-Usage Footprint Tracker SPA
-
-A modern, single-page application (SPA) that visualizes digital resource usage through dynamic charts and theme-based storytelling. Built with React, TailwindCSS, and Vite, this tracker empowers users to explore data across monthly, weekly, and daily granularities, with slick transitions and accessibility features.
-
----
-
 🧩 Architecture Overview
 
 Tech Stack:
