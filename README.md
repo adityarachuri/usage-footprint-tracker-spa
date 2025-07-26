@@ -1,3 +1,58 @@
+# Aditya's Professional SPA Portfolio 🌐✨
+
+Welcome to the source code for my Single Page Application (SPA) built with React, showcasing my professional journey, technical expertise, and creative flair.
+
+## 🚀 Sections Included
+- **Company Branding**: Name, logo, tagline
+- **About Me**: A peek into my values and mission
+- **Core Competencies & Tech Stack**: Skills and experience across .NET, Azure, React, and more
+- **Education & Certifications**: Academic background and credentials
+- **Professional Timeline**: Work experience highlights
+- **Contact Gateway**: Let’s connect!
+
+## 🧠 Architecture Highlights
+- Context-based theme management
+- Dynamic skill visualizations
+- Responsive design with semantic HTML5
+- Deployed securely on Vercel
+
+---
+
+📘 README Introduction (suggested draft)
+
+`markdown
+
+Aditya's Professional SPA Portfolio 🌐✨
+
+Welcome to the source code for my Single Page Application (SPA) built with React, showcasing my professional journey, technical expertise, and creative flair.
+
+🚀 Sections Included
+- Company Branding: Name, logo, tagline
+- About Me: A peek into my values and mission
+- Core Competencies & Tech Stack: Skills and experience across .NET, Azure, React, and more
+- Education & Certifications: Academic background and credentials
+- Professional Timeline: Work experience highlights
+- Contact Gateway: Let’s connect!
+
+🧠 Architecture Highlights
+- Context-based theme management
+- Dynamic skill visualizations
+- Responsive design with semantic HTML5
+- Deployed securely on Vercel
+`
+---
+
+🧩 GitHub Enhancements
+- Repo description: 🌟 SPA Portfolio | Personal branding & React architecture by Aditya
+- Topics:
+  - react
+  - portfolio
+  - web-development
+  - dotnet
+  - azure
+  - competitive-programming
+  - personal-website 
+
 # Usage Footprint Tracker SPA
 
 A modern, single-page application (SPA) that visualizes digital resource usage through dynamic charts and theme-based storytelling. Built with React, TailwindCSS, and Vite, this tracker empowers users to explore data across monthly, weekly, and daily granularities, with slick transitions and accessibility features.
